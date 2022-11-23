@@ -11,7 +11,7 @@ Com esse projeto aprendi sobre as propriedades place-items, visibility e z-index
 
 <hr>
 <h2 align="center">Deploy 👨🏽‍💻</h2>
-<a href="" target="_blank">Descubra o segredo</a>
+<a href="https://lilian-rangel.github.io/Projeto-Modal/" target="_blank">Descubra o segredo</a>
 
 <hr>
 <h2 align="center"> Print do projeto </h2>

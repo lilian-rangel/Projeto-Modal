@@ -1,0 +1,44 @@
+/* Font*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+
+:root {
+    --transition: all 0.3s linear;
+    --ff-primary: "Roboto", sans-serif;
+    --clr-white: #fff;
+    --radius: 0.5rem;
+    --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    --fixed-width: 620px;
+
+}
+
+.hero {
+    min-height: 100vh;
+    background: url(../img/hero.jpeg) center/cover no-repeat;
+    display: grid;
+    place-items: center;
+}
+
+.banner {
+    background: var(--clr-white);
+    padding: 4rem 0;
+    border-radius: var(--radius);
+    box-shadow: var(--light-shadow);
+    text-align: center;
+    width: 90vw;
+    max-width: var(--fixed-width);
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(73, 166, 233, 0.5);
+    display: grid;
+    place-items: center;
+    transition: var(--transition);
+    visibility: hidden;
+    z-index: -10;
+}

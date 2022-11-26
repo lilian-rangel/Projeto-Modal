@@ -18,3 +18,19 @@ Com esse projeto aprendi sobre as propriedades place-items, visibility e z-index
 <br />
 
 <img width="100%" align="center" src="assets/img/print1.jpg">
+
+<hr>
+<h2 align="center"> Contributor 💻</h2>
+<table align="center">
+<tbody>
+<tr>
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/105670314?v=4" width="100px;" alt="Lilian Rangel" style="max-width: 100%;"><br><b>Lílian Rangel</b>
+<br>
+<a href="https://www.linkedin.com/in/lilian-rangel-de-paiva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/lilian-rangel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</td>
+</tr>
+</tbody>
+</table>
